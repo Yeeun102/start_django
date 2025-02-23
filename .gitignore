@@ -1,0 +1,12 @@
+# Django 관련 불필요한 파일
+*.pyc
+__pycache__/
+db.sqlite3
+/media/
+*.log
+
+# 환경 변수 파일
+.env
+
+# 가상환경 (venv)
+venv/
